@@ -8,7 +8,7 @@ from aiogram.filters import CommandStart
 
 import os
 
-API_TOKEN = "8179276423:AAGuRZy8tRW8P-FX2AMRS7ZxG8blmFLpXxY"
+API_TOKEN = "8179276423:AAHCWemkXe4taseLPaaoD2b6iafjKbxlPaw"
 CHANNEL_ID = -1001954952198
 ADMIN_ID = 1388312519
 USERS_FILE = "users.txt"
